@@ -70,7 +70,5 @@ Third customer history of orders:
         array(2, 2, ‘+0.50’),
         ),
     );
-
-The task should take you maximum 3 hours. Let us know how much time it really took.
-
+ 
 ***Maksym Prysiazhnyi 2017***
