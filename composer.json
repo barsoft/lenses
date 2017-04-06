@@ -1,0 +1,15 @@
+{
+  "name": "maksymprysiazhnyi/lenses",
+  "authors": [
+    {
+      "name": "Maksym Prysiazhnyi",
+      "email": "m.prysiazhnyi@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Lenses\\": "src/Lenses"
+    }
+  },
+  "require": {}
+}
